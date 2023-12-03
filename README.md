@@ -1,10 +1,10 @@
 # Diagram-HORDE
 
+The repo contains various ~systems designs~ I have implemented for my clients. You arr welcome to take a look...
 
-
-> Entity Relations.
+> Systems Relations and designs.
 > 
-> The Repo includes various systems design implemented so far for the clients.
+> The Repo includes various systems designs implemented so far for the clients.
 
 
 
@@ -13,18 +13,18 @@
 <details>
   <summary>Are these the standard practices ?</summary>
   
-  ## Section 1 Content
+  ## These are the most minimal safe practices. 
   
-  Some markdown content for section 1.
+  - Make sure to do extra research on *security* measures to prevent *vulnerabilities*
   
 </details>
 
 <details>
-  <summary>Section 2</summary>
+  <summary>Can I copy these ideas?</summary>
   
-  ## Section 2 Content
+  ## Sure, why not!!
   
-  Some markdown content for section 2.
+  Welcome
   
 </details>
 
