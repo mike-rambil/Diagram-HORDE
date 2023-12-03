@@ -1,7 +1,7 @@
 # [Diagram-HORDE](https://app.diagrams.net/#Hmike-rambil%2FDiagram-HORDE%2Fmain%2FEcommerce%2FEcommerceStore.drawio)
 
 
-[Check Out the Diagrams here! /(if authorization required, try logging in/ or shoot me a text/) ](https://app.diagrams.net/#Hmike-rambil%2FDiagram-HORDE%2Fmain%2FEcommerce%2FEcommerceStore.drawio)
+[Check Out the Diagrams here! (if authorization is required--try logging in or shoot me a text) ](https://app.diagrams.net/#Hmike-rambil%2FDiagram-HORDE%2Fmain%2FEcommerce%2FEcommerceStore.drawio)
 
 The repo contains various *systems designs* I have implemented for my clients. You are welcome to take a look...
 
