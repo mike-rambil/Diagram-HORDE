@@ -37,8 +37,8 @@ The repo contains various *systems designs* I have implemented for my clients. Y
   
 </details>
 
-> Authur.
-> 
+## Authur.
+
 >  - Micheal Palliparambil.
 
 
