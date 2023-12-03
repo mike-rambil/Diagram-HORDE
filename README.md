@@ -45,7 +45,7 @@ The repo contains various *systems designs* I have implemented for my clients. Y
 ---
 
 
-## Authur.
+## Author.
 
 >  - Micheal Palliparambil.
 
