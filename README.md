@@ -1,10 +1,10 @@
 # Diagram-HORDE
 
-The repo contains various ~systems designs~ I have implemented for my clients. You arr welcome to take a look...
+The repo contains various *systems designs* I have implemented for my clients. You are welcome to take a look...
 
 > Systems Relations and designs.
 > 
-> The Repo includes various systems designs implemented so far for the clients.
+>  - The Repo includes various systems designs implemented for clients so far.
 
 
 
