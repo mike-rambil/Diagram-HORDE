@@ -2,7 +2,6 @@
 
 The repo contains various *systems designs* I have implemented for my clients. You are welcome to take a look...
 
----
 
 > Systems Relations and designs.
 > 
@@ -38,6 +37,9 @@ The repo contains various *systems designs* I have implemented for my clients. Y
   Some markdown content for section 3.
   
 </details>
+
+---
+
 
 ## Authur.
 
