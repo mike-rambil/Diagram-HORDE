@@ -1,68 +1,177 @@
-<mxfile host="app.diagrams.net" modified="2024-02-05T08:19:35.130Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="1WxP3gk15fh1b0DMeriK" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-05T19:12:11.043Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="RNwN1Q-Jp9XaWv7S0Xq5" version="23.1.1" type="github">
   <diagram name="Page-1" id="e56a1550-8fbb-45ad-956c-1786394a9013">
-    <mxGraphModel dx="2049" dy="1169" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1593" dy="909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="NBP3xJqMvAoc9QIL1dNQ-7" value="" style="group;fontFamily=Times New Roman;" vertex="1" connectable="0" parent="1">
+        <mxCell id="SinJ1Vm3yOzuYbh5t0c3-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="920" width="500" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="NBP3xJqMvAoc9QIL1dNQ-7" value="" style="group;fontFamily=Times New Roman;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="38" y="41" width="372" height="189" as="geometry" />
         </mxCell>
-        <mxCell id="NBP3xJqMvAoc9QIL1dNQ-1" value="&lt;h1 style=&quot;line-height: 250%;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#ff6666&quot; face=&quot;Garamond&quot; style=&quot;font-size: 18px;&quot;&gt;User Requirements&lt;/font&gt;&lt;/b&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="NBP3xJqMvAoc9QIL1dNQ-7">
+        <mxCell id="NBP3xJqMvAoc9QIL1dNQ-1" value="&lt;h1 style=&quot;line-height: 250%;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#ff6666&quot; face=&quot;Garamond&quot; style=&quot;font-size: 18px;&quot;&gt;User Requirements&lt;/font&gt;&lt;/b&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="NBP3xJqMvAoc9QIL1dNQ-7" vertex="1">
           <mxGeometry x="-9.642857142857146" y="-40" width="170" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="NBP3xJqMvAoc9QIL1dNQ-2" value="&lt;ul&gt;&lt;li&gt;&lt;font face=&quot;Garamond&quot;&gt;Users can post tweets(+ photos, videos)&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;ABg3oSwbC5iNjlSyIxZX&quot;&gt;Users can delete tweets&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;ABg3oSwbC5iNjlSyIxZX&quot;&gt;Users can see other posts&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;ABg3oSwbC5iNjlSyIxZX&quot;&gt;Authentication&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="NBP3xJqMvAoc9QIL1dNQ-7">
+        <mxCell id="NBP3xJqMvAoc9QIL1dNQ-2" value="&lt;ul&gt;&lt;li&gt;&lt;font face=&quot;Garamond&quot;&gt;Users can post tweets(+ photos, videos)&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;ABg3oSwbC5iNjlSyIxZX&quot;&gt;Users can delete tweets&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;ABg3oSwbC5iNjlSyIxZX&quot;&gt;Users can see other posts&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;ABg3oSwbC5iNjlSyIxZX&quot;&gt;Authentication&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="NBP3xJqMvAoc9QIL1dNQ-7" vertex="1">
           <mxGeometry x="50" y="35.00454545454545" width="250" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="NBP3xJqMvAoc9QIL1dNQ-9" value="" style="group;fontFamily=Times New Roman;dashed=1;dashPattern=1 4;" vertex="1" connectable="0" parent="1">
+        <mxCell id="NBP3xJqMvAoc9QIL1dNQ-9" value="" style="group;fontFamily=Times New Roman;dashed=1;dashPattern=1 4;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="38" y="250" width="470" height="449.00454545454545" as="geometry" />
         </mxCell>
-        <mxCell id="NBP3xJqMvAoc9QIL1dNQ-10" value="&lt;h1 style=&quot;line-height: 250%;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;Garamond&quot; style=&quot;font-size: 18px;&quot;&gt;Metrics &amp;amp; Resource Allocation&lt;/font&gt;&lt;/b&gt;&lt;/h1&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="NBP3xJqMvAoc9QIL1dNQ-9">
+        <mxCell id="NBP3xJqMvAoc9QIL1dNQ-10" value="&lt;h1 style=&quot;line-height: 250%;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;Garamond&quot; style=&quot;font-size: 18px;&quot;&gt;Metrics &amp;amp; Resource Allocation&lt;/font&gt;&lt;/b&gt;&lt;/h1&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="NBP3xJqMvAoc9QIL1dNQ-9" vertex="1">
           <mxGeometry x="-0.002857142857145334" y="-30" width="260" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="NBP3xJqMvAoc9QIL1dNQ-11" value="&lt;ul&gt;&lt;li&gt;&lt;font face=&quot;Garamond&quot;&gt;20kb/tweet&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;Garamond&quot;&gt;3mb-8mb/picture&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;Garamond&quot;&gt;240 mb/ video&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;CfSvEBZ2BJ6MO1ooFi9K&quot;&gt;1 Billion Total Users&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;CfSvEBZ2BJ6MO1ooFi9K&quot;&gt;200 Million active users&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="NBP3xJqMvAoc9QIL1dNQ-9">
+        <mxCell id="NBP3xJqMvAoc9QIL1dNQ-11" value="&lt;ul&gt;&lt;li&gt;&lt;font face=&quot;Garamond&quot;&gt;20kb/tweet&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;Garamond&quot;&gt;3mb-8mb/picture&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;Garamond&quot;&gt;240 mb/ video&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;CfSvEBZ2BJ6MO1ooFi9K&quot;&gt;1 Billion Total Users&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;CfSvEBZ2BJ6MO1ooFi9K&quot;&gt;200 Million active users&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="NBP3xJqMvAoc9QIL1dNQ-9" vertex="1">
           <mxGeometry x="50" y="30.00454545454545" width="180" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="NBP3xJqMvAoc9QIL1dNQ-21" value="" style="group;align=left;fontColor=#009900;" vertex="1" connectable="0" parent="1">
+        <mxCell id="NBP3xJqMvAoc9QIL1dNQ-21" value="" style="group;align=left;fontColor=#009900;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="330" y="250" width="370" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="NBP3xJqMvAoc9QIL1dNQ-17" value="&lt;h1&gt;&lt;font color=&quot;#00cc00&quot; style=&quot;font-size: 21px;&quot;&gt;5440 TB pictures/ day&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Times New Roman;fontColor=default;" vertex="1" parent="NBP3xJqMvAoc9QIL1dNQ-21">
+        <mxCell id="NBP3xJqMvAoc9QIL1dNQ-17" value="&lt;h1&gt;&lt;font color=&quot;#00cc00&quot; style=&quot;font-size: 21px;&quot;&gt;5440 TB pictures/ day&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Times New Roman;fontColor=default;" parent="NBP3xJqMvAoc9QIL1dNQ-21" vertex="1">
           <mxGeometry width="220" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="NBP3xJqMvAoc9QIL1dNQ-19" value="" style="group" vertex="1" connectable="0" parent="NBP3xJqMvAoc9QIL1dNQ-21">
+        <mxCell id="NBP3xJqMvAoc9QIL1dNQ-19" value="" style="group" parent="NBP3xJqMvAoc9QIL1dNQ-21" vertex="1" connectable="0">
           <mxGeometry y="50" width="370" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="NBP3xJqMvAoc9QIL1dNQ-14" value="&lt;h1&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;40 TB Tweets/ day&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Times New Roman;fontColor=default;" vertex="1" parent="NBP3xJqMvAoc9QIL1dNQ-19">
+        <mxCell id="NBP3xJqMvAoc9QIL1dNQ-14" value="&lt;h1&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;40 TB Tweets/ day&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Times New Roman;fontColor=default;" parent="NBP3xJqMvAoc9QIL1dNQ-19" vertex="1">
           <mxGeometry width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="NBP3xJqMvAoc9QIL1dNQ-15" value="&lt;h1&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;1600 TB pictures/ day&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Times New Roman;fontColor=default;" vertex="1" parent="NBP3xJqMvAoc9QIL1dNQ-19">
+        <mxCell id="NBP3xJqMvAoc9QIL1dNQ-15" value="&lt;h1&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;1600 TB pictures/ day&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Times New Roman;fontColor=default;" parent="NBP3xJqMvAoc9QIL1dNQ-19" vertex="1">
           <mxGeometry x="105" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="NBP3xJqMvAoc9QIL1dNQ-16" value="&lt;h1&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;4800 TB pictures/ day&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Times New Roman;fontColor=default;" vertex="1" parent="NBP3xJqMvAoc9QIL1dNQ-19">
+        <mxCell id="NBP3xJqMvAoc9QIL1dNQ-16" value="&lt;h1&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;4800 TB pictures/ day&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Times New Roman;fontColor=default;" parent="NBP3xJqMvAoc9QIL1dNQ-19" vertex="1">
           <mxGeometry x="230" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="NBP3xJqMvAoc9QIL1dNQ-38" value="&lt;h1 style=&quot;line-height: 123%;&quot;&gt;&lt;ul style=&quot;line-height: 123%;&quot;&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Garamond&quot; color=&quot;#ff6666&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Availability&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Garamond&quot; color=&quot;#ff6666&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Consistency&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Garamond&quot; color=&quot;#ff6666&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Scalability&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Garamond&quot; color=&quot;#ff6666&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Efficiency&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Garamond&quot; color=&quot;#ff6666&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Performance&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Garamond&quot; color=&quot;#ff6666&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Point of Failure&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 18px;&quot; face=&quot;Garamond&quot; color=&quot;#ff6666&quot;&gt;Resiliency/Fault Tolerance&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 18px;&quot; face=&quot;Garamond&quot; color=&quot;#ff6666&quot;&gt;Logging &amp;amp; Monitoring&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;font face=&quot;Garamond&quot; color=&quot;#ff6666&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Common Mistakes&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;font face=&quot;Garamond&quot; color=&quot;#ff6666&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Complexity&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="NBP3xJqMvAoc9QIL1dNQ-38" value="&lt;h1 style=&quot;line-height: 123%;&quot;&gt;&lt;ul style=&quot;line-height: 123%;&quot;&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Garamond&quot; color=&quot;#ff6666&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Availability&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Garamond&quot; color=&quot;#ff6666&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Consistency&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Garamond&quot; color=&quot;#ff6666&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Scalability&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Garamond&quot; color=&quot;#ff6666&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Efficiency&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Garamond&quot; color=&quot;#ff6666&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Performance&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Garamond&quot; color=&quot;#ff6666&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Point of Failure&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 18px;&quot; face=&quot;Garamond&quot; color=&quot;#ff6666&quot;&gt;Resiliency/Fault Tolerance&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 18px;&quot; face=&quot;Garamond&quot; color=&quot;#ff6666&quot;&gt;Logging &amp;amp; Monitoring&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;font face=&quot;Garamond&quot; color=&quot;#ff6666&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Common Mistakes&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;font face=&quot;Garamond&quot; color=&quot;#ff6666&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Complexity&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="807.4971428571429" y="10" width="270" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="NBP3xJqMvAoc9QIL1dNQ-35" value="" style="group;fontFamily=Times New Roman;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="268" y="730" width="389" height="100" as="geometry" />
+        <mxCell id="SinJ1Vm3yOzuYbh5t0c3-1" value="&lt;font color=&quot;#ff6666&quot; face=&quot;Garamond&quot; style=&quot;font-size: 18px;&quot;&gt;User Requirements&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="930" width="300" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NBP3xJqMvAoc9QIL1dNQ-36" value="&lt;p style=&quot;line-height: 373%;&quot;&gt;&lt;/p&gt;&lt;h1 style=&quot;line-height: 443%;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#007fff&quot; face=&quot;Garamond&quot; style=&quot;font-size: 37px;&quot;&gt;User Timeline&lt;/font&gt;&lt;/b&gt;&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="NBP3xJqMvAoc9QIL1dNQ-35">
-          <mxGeometry x="69.01314132104453" y="-15.873015873015872" width="240" height="160" as="geometry" />
+        <mxCell id="SinJ1Vm3yOzuYbh5t0c3-2" value="&lt;ul&gt;&lt;li&gt;Users can watch other creator videos&lt;/li&gt;&lt;li&gt;Creators can upload videos(10 seconds)&lt;/li&gt;&lt;li&gt;Users can comment on Creators posts&lt;/li&gt;&lt;li&gt;User Timeline/ Creator Timeline&lt;/li&gt;&lt;li&gt;Recommendations Page&lt;/li&gt;&lt;li&gt;Authentication&lt;/li&gt;&lt;li&gt;Live Streaming Service&lt;/li&gt;&lt;li&gt;-----------Users can pay to buy tokens&lt;/li&gt;&lt;li&gt;-----------Users can then gift tokens&lt;/li&gt;&lt;li&gt;-----------Creators can redeem compensation&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="74" y="980" width="300" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="NBP3xJqMvAoc9QIL1dNQ-39" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="230" y="840" width="480" height="240" as="geometry" />
+        <mxCell id="SinJ1Vm3yOzuYbh5t0c3-3" value="&lt;ul&gt;&lt;li&gt;Availabilty&lt;/li&gt;&lt;li&gt;Consistency&lt;/li&gt;&lt;li&gt;Resiliency&lt;/li&gt;&lt;li&gt;Scalability&lt;/li&gt;&lt;li&gt;Performance&lt;/li&gt;&lt;li&gt;Point of Failure&lt;/li&gt;&lt;li&gt;Efficiecy&lt;/li&gt;&lt;li&gt;Security + Logging + Heath &amp;amp; Resource Consumption&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="965" width="300" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="NBP3xJqMvAoc9QIL1dNQ-31" value="" style="rounded=1;whiteSpace=wrap;html=1;pointerEvents=0;align=center;verticalAlign=top;fontFamily=Times New Roman;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;dashed=1;" vertex="1" parent="NBP3xJqMvAoc9QIL1dNQ-39">
-          <mxGeometry width="480" height="240" as="geometry" />
+        <mxCell id="SinJ1Vm3yOzuYbh5t0c3-4" value="&lt;font color=&quot;#ff6666&quot; face=&quot;Garamond&quot; style=&quot;font-size: 18px;&quot;&gt;Things to Look for&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="930" width="300" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cVgDjW6s2lwdf_HBZ_4n-1" value="Object" style="html=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="NBP3xJqMvAoc9QIL1dNQ-39" vertex="1">
-          <mxGeometry x="62.5" y="90" width="110" height="50" as="geometry" />
+        <mxCell id="SinJ1Vm3yOzuYbh5t0c3-6" value="&lt;ul&gt;&lt;li&gt;Users = 100Miilion&lt;/li&gt;&lt;li&gt;Daily Active Users = 10 Million Active&amp;nbsp;&lt;/li&gt;&lt;li&gt;100 users: 1 Creator&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="98" y="1300" width="300" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="cVgDjW6s2lwdf_HBZ_4n-2" value="Object" style="html=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="NBP3xJqMvAoc9QIL1dNQ-39" vertex="1">
-          <mxGeometry x="307.5" y="90" width="110" height="50" as="geometry" />
+        <mxCell id="SinJ1Vm3yOzuYbh5t0c3-7" value="&lt;font face=&quot;Garamond&quot; color=&quot;#ff6666&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Resource and Metrics( Storage + CPU, Ram)&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="74" y="1250" width="300" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NBP3xJqMvAoc9QIL1dNQ-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=12;fontColor=default;" edge="1" parent="NBP3xJqMvAoc9QIL1dNQ-39" source="cVgDjW6s2lwdf_HBZ_4n-1" target="cVgDjW6s2lwdf_HBZ_4n-2">
+        <mxCell id="SinJ1Vm3yOzuYbh5t0c3-8" value="Case Scenario:-&lt;br&gt;All Tiktok creator post everyday(worst case scenario)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="1330" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SinJ1Vm3yOzuYbh5t0c3-9" value="&lt;ul style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;1 Million Creator on TIKTOK&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;2 posts/ day == 1 million posts&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;REQUEST == 12 requests / second&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="475" y="1420" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SinJ1Vm3yOzuYbh5t0c3-10" value="Case Scenario:-&lt;br&gt;All Tiktok USERS that scrolls everyday(worst case scenario) === They scroll for an hour" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="1330" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SinJ1Vm3yOzuYbh5t0c3-11" value="&lt;ul style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;100 Million Users on TIKTOK&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;10 denials/ 10 seconds&amp;nbsp; == 10 Requests/ seconds&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;REQUEST ==&amp;nbsp;&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;500K / 1 second&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="1420" width="345" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SinJ1Vm3yOzuYbh5t0c3-12" value="&lt;ul&gt;&lt;li&gt;STORAGE&lt;/li&gt;&lt;li&gt;Video + metadata&lt;/li&gt;&lt;li&gt;metadata{&lt;/li&gt;&lt;li&gt;creator_name:&lt;/li&gt;&lt;li&gt;post_id:&lt;/li&gt;&lt;li&gt;mobile_phone:&lt;/li&gt;&lt;li&gt;email:&lt;/li&gt;&lt;li&gt;followers:&lt;/li&gt;&lt;li&gt;folllwing:&lt;/li&gt;&lt;li&gt;comments_id:&lt;/li&gt;&lt;li&gt;}&lt;br&gt;&lt;/li&gt;&lt;li&gt;---comments{&lt;/li&gt;&lt;li&gt;creator_id: foreign&lt;/li&gt;&lt;li&gt;post_id: foreign&lt;/li&gt;&lt;li&gt;users_id:[foreign, .......]&lt;/li&gt;&lt;li&gt;}&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1490" width="300" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="SinJ1Vm3yOzuYbh5t0c3-13" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Users:{&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;user_id:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;phone_Number:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;email:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;followers:&lt;br&gt;following:&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;zipcode:&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;}&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="113" y="1765" width="110" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="SinJ1Vm3yOzuYbh5t0c3-16" value="&lt;h1&gt;Users&lt;/h1&gt;&lt;div&gt;4kb * 100 million users ==&amp;nbsp; 400Gb&lt;/div&gt;&lt;div&gt;profile pic = BLOB STORAGE == 2mb * 100 million =&amp;nbsp; 200 TB&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="374" y="1685" width="466" height="325" as="geometry" />
+        </mxCell>
+        <mxCell id="SinJ1Vm3yOzuYbh5t0c3-17" value="&lt;h1&gt;Creators&lt;/h1&gt;&lt;div&gt;20mb * 30 million =600Tb/ week (videos)&lt;/div&gt;&lt;div&gt;5kb * 30 million = 500Gb&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="980" y="1685" width="466" height="325" as="geometry" />
+        </mxCell>
+        <mxCell id="SinJ1Vm3yOzuYbh5t0c3-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="SinJ1Vm3yOzuYbh5t0c3-18" target="SinJ1Vm3yOzuYbh5t0c3-20">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SinJ1Vm3yOzuYbh5t0c3-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="SinJ1Vm3yOzuYbh5t0c3-18" target="SinJ1Vm3yOzuYbh5t0c3-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SinJ1Vm3yOzuYbh5t0c3-18" value="USERS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="113" y="2310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SinJ1Vm3yOzuYbh5t0c3-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SinJ1Vm3yOzuYbh5t0c3-19" target="SinJ1Vm3yOzuYbh5t0c3-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SinJ1Vm3yOzuYbh5t0c3-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SinJ1Vm3yOzuYbh5t0c3-19" target="SinJ1Vm3yOzuYbh5t0c3-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SinJ1Vm3yOzuYbh5t0c3-19" value="CREATORS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="113" y="2450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SinJ1Vm3yOzuYbh5t0c3-20" value="Watch Videos" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="393" y="2310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SinJ1Vm3yOzuYbh5t0c3-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="SinJ1Vm3yOzuYbh5t0c3-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="753" y="2430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SinJ1Vm3yOzuYbh5t0c3-22" value="Post Videos" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="393" y="2450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SinJ1Vm3yOzuYbh5t0c3-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="SinJ1Vm3yOzuYbh5t0c3-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="863" y="2350" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SinJ1Vm3yOzuYbh5t0c3-24" value="DB&lt;br&gt;No SQL" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="740" y="2350" width="235" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="SinJ1Vm3yOzuYbh5t0c3-27" value="&lt;font face=&quot;Garamond&quot; color=&quot;#ff6666&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;User Timeline&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="113" y="2110" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SinJ1Vm3yOzuYbh5t0c3-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SinJ1Vm3yOzuYbh5t0c3-28" target="SinJ1Vm3yOzuYbh5t0c3-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SinJ1Vm3yOzuYbh5t0c3-28" value="Watch Live Stream" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="393" y="2220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SinJ1Vm3yOzuYbh5t0c3-31" value="Live Streaming Service(UDP)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="2200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SinJ1Vm3yOzuYbh5t0c3-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="SinJ1Vm3yOzuYbh5t0c3-34" target="SinJ1Vm3yOzuYbh5t0c3-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SinJ1Vm3yOzuYbh5t0c3-34" value="Creator Live Steam" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="388" y="2540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SinJ1Vm3yOzuYbh5t0c3-38" value="&lt;font style=&quot;font-size: 38px;&quot; face=&quot;Garamond&quot; color=&quot;#ff6666&quot;&gt;High Level Desgin&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="74" y="2780" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SinJ1Vm3yOzuYbh5t0c3-39" value="Users" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="374" y="3200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SinJ1Vm3yOzuYbh5t0c3-40" value="LB" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="3090" width="120" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="SinJ1Vm3yOzuYbh5t0c3-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.012;entryY=0.523;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SinJ1Vm3yOzuYbh5t0c3-39" target="SinJ1Vm3yOzuYbh5t0c3-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SinJ1Vm3yOzuYbh5t0c3-42" value="POST recommendation Service" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="3130" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="SinJ1Vm3yOzuYbh5t0c3-43" value="POST recommendation Service" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="2980" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="SinJ1Vm3yOzuYbh5t0c3-44" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="3200" width="280" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="SinJ1Vm3yOzuYbh5t0c3-45" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="3310" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SinJ1Vm3yOzuYbh5t0c3-46" value="Creators" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="3370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SinJ1Vm3yOzuYbh5t0c3-47" value="Live Steraming Service" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="3460" width="240" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
