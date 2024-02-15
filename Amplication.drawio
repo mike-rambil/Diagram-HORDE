@@ -1,53 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2024-02-15T17:05:50.776Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="mpqHvOuUYDnSh9VrwAnp" version="23.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-15T20:12:56.235Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="3jUuCzML2HNVO-wSMgo9" version="23.1.4" type="github">
   <diagram name="Page-1" id="JIzbvB5vFEo_5nwif32d">
-    <mxGraphModel dx="4097" dy="3437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="7170" dy="5190" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="GvO9N4xdw_BUistmSwuN-6" value="End Points:&lt;br style=&quot;font-size: 22px;&quot;&gt;&lt;br style=&quot;font-size: 22px;&quot;&gt;/mystore&lt;br style=&quot;font-size: 22px;&quot;&gt;/mystore/customer/:customerId&lt;br style=&quot;font-size: 22px;&quot;&gt;/mystore/services/:serviceId&lt;br style=&quot;font-size: 22px;&quot;&gt;/mystore/payments/pay?customerId=123&amp;amp;serviceId=456" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=22;fontFamily=Lucida Console;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="75" y="-790" width="965" height="690" as="geometry" />
         </mxCell>
-        <mxCell id="GvO9N4xdw_BUistmSwuN-18" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1090" y="-790" width="280" height="400" as="geometry" />
-        </mxCell>
-        <mxCell id="GvO9N4xdw_BUistmSwuN-12" value="&lt;font style=&quot;font-size: 27px;&quot;&gt;/mystore/:customerId&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="GvO9N4xdw_BUistmSwuN-18">
-          <mxGeometry width="280" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="GvO9N4xdw_BUistmSwuN-13" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;GET&lt;br&gt;get all customers&lt;br&gt;&lt;br&gt;POST&lt;br&gt;create a customer&lt;br&gt;&lt;br&gt;Delete a customer&lt;br&gt;&lt;br&gt;PATCH&lt;br&gt;update a customer&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="GvO9N4xdw_BUistmSwuN-18">
-          <mxGeometry x="30" y="60" width="250" height="340" as="geometry" />
-        </mxCell>
-        <mxCell id="GvO9N4xdw_BUistmSwuN-19" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1550" y="-790" width="255" height="400" as="geometry" />
-        </mxCell>
-        <mxCell id="GvO9N4xdw_BUistmSwuN-14" value="&lt;font style=&quot;font-size: 27px;&quot;&gt;/mystore/:serviceId&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="GvO9N4xdw_BUistmSwuN-19">
-          <mxGeometry width="250" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="GvO9N4xdw_BUistmSwuN-15" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;GET&lt;br&gt;get all services&lt;br&gt;&lt;br&gt;POST&lt;br&gt;create a services&lt;br&gt;&lt;br&gt;Delete a services&lt;br&gt;&lt;br&gt;PATCH&lt;br&gt;update a update&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="GvO9N4xdw_BUistmSwuN-19">
-          <mxGeometry x="25" y="60" width="230" height="340" as="geometry" />
-        </mxCell>
-        <mxCell id="GvO9N4xdw_BUistmSwuN-20" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1900" y="-790" width="620" height="325" as="geometry" />
-        </mxCell>
-        <mxCell id="GvO9N4xdw_BUistmSwuN-16" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;GET&lt;br&gt;get recent payments(restricted)&lt;br&gt;&lt;br&gt;POST&lt;br&gt;body should include the payment amount&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="GvO9N4xdw_BUistmSwuN-20">
-          <mxGeometry x="65" y="115" width="520" height="210" as="geometry" />
-        </mxCell>
-        <mxCell id="GvO9N4xdw_BUistmSwuN-17" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;/mystore/payments/pay?customerId=123&amp;amp;serviceId=456&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="GvO9N4xdw_BUistmSwuN-20">
-          <mxGeometry width="620" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="GvO9N4xdw_BUistmSwuN-21" value="&lt;h1&gt;&lt;font color=&quot;#ff9999&quot;&gt;relationships&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1120" y="-300" width="170" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="GvO9N4xdw_BUistmSwuN-28" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;{&lt;br&gt;id: primary_key&lt;br&gt;name:string,&lt;br&gt;email:string,&lt;br&gt;phone_no:number,&lt;br&gt;address:string,&lt;br&gt;}&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1105" y="-170" width="250" height="240" as="geometry" />
-        </mxCell>
-        <mxCell id="GvO9N4xdw_BUistmSwuN-30" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;{&lt;br&gt;id: primary_key&lt;br&gt;service_name:string,&lt;br&gt;store_address: string,&lt;br&gt;phone_no: number,&lt;br&gt;price: number,&lt;br&gt;}&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1570" y="-180" width="280" height="240" as="geometry" />
-        </mxCell>
-        <mxCell id="GvO9N4xdw_BUistmSwuN-31" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;{&lt;br&gt;id: primary_key&lt;br&gt;payment_type:string,&lt;br&gt;order-items: [[order-item,quantity].......],&lt;br&gt;phone_no: number,&lt;br&gt;}&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2060" y="-165" width="490" height="210" as="geometry" />
-        </mxCell>
         <mxCell id="GvO9N4xdw_BUistmSwuN-32" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="170" y="200" width="2930" height="1640" as="geometry" />
+          <mxGeometry x="180" y="380" width="2930" height="1640" as="geometry" />
         </mxCell>
         <mxCell id="GvO9N4xdw_BUistmSwuN-1" value="&lt;font style=&quot;font-size: 42px;&quot;&gt;Ngnix&lt;br&gt;&lt;br&gt;&lt;br&gt;/mystore&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GvO9N4xdw_BUistmSwuN-32">
           <mxGeometry x="1088.2857142857142" width="502.2857142857142" height="1640" as="geometry" />
@@ -55,25 +19,70 @@
         <mxCell id="GvO9N4xdw_BUistmSwuN-2" value="&lt;font style=&quot;font-size: 42px;&quot;&gt;Customer&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="GvO9N4xdw_BUistmSwuN-32">
           <mxGeometry y="656" width="502.2857142857142" height="291.55555555555554" as="geometry" />
         </mxCell>
-        <mxCell id="GvO9N4xdw_BUistmSwuN-3" value="&lt;font style=&quot;font-size: 42px;&quot;&gt;Customer&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GvO9N4xdw_BUistmSwuN-32">
-          <mxGeometry x="2427.7142857142853" y="109.33333333333334" width="502.2857142857142" height="218.66666666666669" as="geometry" />
-        </mxCell>
-        <mxCell id="GvO9N4xdw_BUistmSwuN-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="GvO9N4xdw_BUistmSwuN-32" source="GvO9N4xdw_BUistmSwuN-1" target="GvO9N4xdw_BUistmSwuN-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="GvO9N4xdw_BUistmSwuN-4" value="&lt;font style=&quot;font-size: 42px;&quot;&gt;Services&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GvO9N4xdw_BUistmSwuN-32">
-          <mxGeometry x="2427.7142857142853" y="728.8888888888888" width="502.2857142857142" height="218.66666666666669" as="geometry" />
+          <mxGeometry x="2530.0042857142853" y="589.9988888888888" width="502.2857142857142" height="218.66666666666669" as="geometry" />
         </mxCell>
         <mxCell id="GvO9N4xdw_BUistmSwuN-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="GvO9N4xdw_BUistmSwuN-32" source="GvO9N4xdw_BUistmSwuN-1" target="GvO9N4xdw_BUistmSwuN-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GvO9N4xdw_BUistmSwuN-5" value="&lt;font style=&quot;font-size: 42px;&quot;&gt;Payments&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GvO9N4xdw_BUistmSwuN-32">
-          <mxGeometry x="2427.7142857142853" y="1312" width="502.2857142857142" height="218.66666666666669" as="geometry" />
-        </mxCell>
-        <mxCell id="GvO9N4xdw_BUistmSwuN-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="GvO9N4xdw_BUistmSwuN-32" source="GvO9N4xdw_BUistmSwuN-1" target="GvO9N4xdw_BUistmSwuN-5">
+        <mxCell id="GvO9N4xdw_BUistmSwuN-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.008;entryY=0.476;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="GvO9N4xdw_BUistmSwuN-32" source="GvO9N4xdw_BUistmSwuN-2" target="GvO9N4xdw_BUistmSwuN-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GvO9N4xdw_BUistmSwuN-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.008;entryY=0.476;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="GvO9N4xdw_BUistmSwuN-32" source="GvO9N4xdw_BUistmSwuN-2" target="GvO9N4xdw_BUistmSwuN-1">
+        <mxCell id="GvO9N4xdw_BUistmSwuN-33" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="3390" y="-570" width="280" height="860" as="geometry" />
+        </mxCell>
+        <mxCell id="GvO9N4xdw_BUistmSwuN-18" value="" style="group" vertex="1" connectable="0" parent="GvO9N4xdw_BUistmSwuN-33">
+          <mxGeometry width="280" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="GvO9N4xdw_BUistmSwuN-12" value="&lt;font style=&quot;font-size: 27px;&quot;&gt;/mystore/:customerId&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="GvO9N4xdw_BUistmSwuN-18">
+          <mxGeometry width="280" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GvO9N4xdw_BUistmSwuN-13" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;GET&lt;br&gt;get all customers&lt;br&gt;&lt;br&gt;POST&lt;br&gt;create a customer&lt;br&gt;&lt;br&gt;Delete a customer&lt;br&gt;&lt;br&gt;PATCH&lt;br&gt;update a customer&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="GvO9N4xdw_BUistmSwuN-18">
+          <mxGeometry x="30" y="60" width="250" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="GvO9N4xdw_BUistmSwuN-28" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;{&lt;br&gt;id: primary_key&lt;br&gt;name:string,&lt;br&gt;email:string,&lt;br&gt;phone_no:number,&lt;br&gt;address:string,&lt;br&gt;}&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="GvO9N4xdw_BUistmSwuN-33">
+          <mxGeometry x="15" y="620" width="250" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="GvO9N4xdw_BUistmSwuN-34" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="3240" y="680" width="300" height="850" as="geometry" />
+        </mxCell>
+        <mxCell id="GvO9N4xdw_BUistmSwuN-19" value="" style="group" vertex="1" connectable="0" parent="GvO9N4xdw_BUistmSwuN-34">
+          <mxGeometry width="255" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="GvO9N4xdw_BUistmSwuN-14" value="&lt;font style=&quot;font-size: 27px;&quot;&gt;/mystore/:serviceId&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="GvO9N4xdw_BUistmSwuN-19">
+          <mxGeometry width="250" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GvO9N4xdw_BUistmSwuN-15" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;GET&lt;br&gt;get all services&lt;br&gt;&lt;br&gt;POST&lt;br&gt;create a services&lt;br&gt;&lt;br&gt;Delete a services&lt;br&gt;&lt;br&gt;PATCH&lt;br&gt;update a update&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="GvO9N4xdw_BUistmSwuN-19">
+          <mxGeometry x="25" y="60" width="230" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="GvO9N4xdw_BUistmSwuN-30" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;{&lt;br&gt;id: primary_key&lt;br&gt;service_name:string,&lt;br&gt;store_address: string,&lt;br&gt;phone_no: number,&lt;br&gt;price: number,&lt;br&gt;}&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="GvO9N4xdw_BUistmSwuN-34">
+          <mxGeometry x="20" y="610" width="280" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="GvO9N4xdw_BUistmSwuN-35" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="3180" y="1810" width="650" height="835" as="geometry" />
+        </mxCell>
+        <mxCell id="GvO9N4xdw_BUistmSwuN-20" value="" style="group" vertex="1" connectable="0" parent="GvO9N4xdw_BUistmSwuN-35">
+          <mxGeometry width="620" height="325" as="geometry" />
+        </mxCell>
+        <mxCell id="GvO9N4xdw_BUistmSwuN-16" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;GET&lt;br&gt;get recent payments(restricted)&lt;br&gt;&lt;br&gt;POST&lt;br&gt;body should include the payment amount&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="GvO9N4xdw_BUistmSwuN-20">
+          <mxGeometry x="65" y="115" width="520" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="GvO9N4xdw_BUistmSwuN-17" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;/mystore/payments/pay?customerId=123&amp;amp;serviceId=456&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="GvO9N4xdw_BUistmSwuN-20">
+          <mxGeometry width="620" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GvO9N4xdw_BUistmSwuN-31" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;{&lt;br&gt;id: primary_key&lt;br&gt;payment_type:string,&lt;br&gt;order-items: [[order-item,quantity].......],&lt;br&gt;phone_no: number,&lt;br&gt;}&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="GvO9N4xdw_BUistmSwuN-35">
+          <mxGeometry x="160" y="625" width="490" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="GvO9N4xdw_BUistmSwuN-3" value="&lt;font style=&quot;font-size: 42px;&quot;&gt;Customer&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2680.0042857142853" y="-169.99666666666667" width="502.2857142857142" height="218.66666666666669" as="geometry" />
+        </mxCell>
+        <mxCell id="GvO9N4xdw_BUistmSwuN-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GvO9N4xdw_BUistmSwuN-1" target="GvO9N4xdw_BUistmSwuN-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GvO9N4xdw_BUistmSwuN-5" value="&lt;font style=&quot;font-size: 42px;&quot;&gt;Payments&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2690.0042857142853" y="2160" width="502.2857142857142" height="218.66666666666669" as="geometry" />
+        </mxCell>
+        <mxCell id="GvO9N4xdw_BUistmSwuN-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GvO9N4xdw_BUistmSwuN-1" target="GvO9N4xdw_BUistmSwuN-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
